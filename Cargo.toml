@@ -17,7 +17,7 @@ default = ["serde"]
 
 [dependencies]
 chrono = "0.2.17"
-hyper = "0.9.0"
+hyper = "0.10"
 rustc-serialize = "0.3.16"
 url = "1.1.0"
 
